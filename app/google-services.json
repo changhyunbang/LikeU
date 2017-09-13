@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "97369887372",
+    "firebase_url": "https://like-u-32947.firebaseio.com",
+    "project_id": "like-u-32947",
+    "storage_bucket": "like-u-32947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97369887372:android:fba6bed6add8071d",
+        "android_client_info": {
+          "package_name": "com.rooms.android.likeu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97369887372-q93vr7733lnor898ud29ul1k245tj7lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDtxzmvm4dhD3vSxdXcSuAflNa0cT6nUo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
